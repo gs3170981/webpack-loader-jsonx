@@ -1,0 +1,24 @@
+{
+  "name": "webpack-loader-jsonx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs3170981/webpack-loader-jsonx.git"
+  },
+  "keywords": [
+    "json",
+    "jsonx",
+    "loader"
+  ],
+  "author": "mcky_love",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gs3170981/webpack-loader-jsonx/issues"
+  },
+  "homepage": "https://github.com/gs3170981/webpack-loader-jsonx#readme"
+}
